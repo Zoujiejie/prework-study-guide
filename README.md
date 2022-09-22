@@ -6,7 +6,7 @@
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
-- [Skills] (#skills)
+- [Skills](#skills)
 - [Credits](#Credits)
 
 ## Installation
