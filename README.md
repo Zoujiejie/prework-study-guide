@@ -6,8 +6,8 @@
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
-- [Skills]
-- [Credits]
+- [Skills] (#skills)
+- [Credits](#Credits)
 
 ## Installation
 - Generated and dded SSH key to Github
